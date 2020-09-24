@@ -1,10 +1,10 @@
 <?php
 date_default_timezone_set('America/Chicago');
 /* connects to my database */
-$servername = "localhost";
-$username = "teschsco_jtesch";
-$password = "G0d!sg00d!";
-$dbname="teschsco_draftparty";
+$servername = "dummyInfo";
+$username = "dummyInfo";
+$password = "dummyInfo";
+$dbname="dummyInfo";
 
 $amIAnAdmin = $_GET['amIAnAdmin'];
 
